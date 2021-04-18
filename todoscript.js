@@ -41,7 +41,7 @@ function createListElement() {
 		li.classList.add("delete")
 	}
 	//END ADD CLASS DELETE
-
+}
 
 
 function addListAfterClick(){
